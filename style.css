@@ -4,7 +4,7 @@
 {
 
     background: yellow;
-    outline: 8px red;
+
 
 
 }
@@ -14,7 +14,14 @@ h1
     color: red;
 }
 
+div
+{
+    outline: 8px red solid;
+}
+
 .i {
     background: white;
-    color: green;
+    color: black;
 }
+
+
